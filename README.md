@@ -131,12 +131,6 @@ Options:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
