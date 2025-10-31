@@ -1,4 +1,4 @@
-# ⚡ LeadFlow AI
+# ⚡ LeadFlow - AI Lead Generation
 
 AI-powered business lead generation — from Google Maps to personalized outreach in minutes.
 
